@@ -1,5 +1,4 @@
 #include "ds/double_link_list.hpp"
-#include <vector>
 
 int main() {
     double_link_list<int> list = {10, -1, 20, 99, 100};
